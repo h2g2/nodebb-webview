@@ -1,4 +1,4 @@
-package com.webview.nodebb.activity;
+package club.h2g2.thumb.activity;
 
 import android.content.Context;
 import android.content.Intent;
@@ -21,10 +21,10 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
 
 import com.google.android.gms.analytics.GoogleAnalytics;
-import com.webview.nodebb.R;
-import com.webview.nodebb.WebAppApplication;
-import com.webview.nodebb.adapter.DrawerAdapter;
-import com.webview.nodebb.fragment.MainFragment;
+import club.h2g2.thumb.R;
+import club.h2g2.thumb.WebAppApplication;
+import club.h2g2.thumb.adapter.DrawerAdapter;
+import club.h2g2.thumb.fragment.MainFragment;
 
 
 public class MainActivity extends AppCompatActivity {

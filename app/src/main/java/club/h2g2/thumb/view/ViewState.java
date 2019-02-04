@@ -1,4 +1,4 @@
-package com.webview.nodebb.view;
+package club.h2g2.thumb.view;
 
 
 public enum ViewState

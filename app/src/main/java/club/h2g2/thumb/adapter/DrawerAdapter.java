@@ -1,4 +1,4 @@
-package com.webview.nodebb.adapter;
+package club.h2g2.thumb.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -8,7 +8,7 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.webview.nodebb.R;
+import club.h2g2.thumb.R;
 
 
 public class DrawerAdapter extends BaseAdapter {

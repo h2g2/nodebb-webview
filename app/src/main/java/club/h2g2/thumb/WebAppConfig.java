@@ -1,4 +1,4 @@
-package com.webview.nodebb;
+package club.h2g2.thumb;
 
 
 public class WebAppConfig {

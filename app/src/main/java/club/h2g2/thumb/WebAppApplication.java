@@ -1,4 +1,4 @@
-package com.webview.nodebb;
+package club.h2g2.thumb;
 
 import android.app.Application;
 import android.content.Context;

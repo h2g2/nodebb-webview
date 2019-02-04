@@ -1,4 +1,4 @@
-package com.webview.nodebb.fragment;
+package club.h2g2.thumb.fragment;
 
 import android.app.Activity;
 import android.content.ActivityNotFoundException;
@@ -22,13 +22,13 @@ import android.widget.Toast;
 
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
-import com.webview.nodebb.R;
-import com.webview.nodebb.WebAppApplication;
-import com.webview.nodebb.WebAppConfig;
-import com.webview.nodebb.utility.DownloadUtility;
-import com.webview.nodebb.utility.MediaUtility;
-import com.webview.nodebb.utility.NetworkManager;
-import com.webview.nodebb.view.ViewState;
+import club.h2g2.thumb.R;
+import club.h2g2.thumb.WebAppApplication;
+import club.h2g2.thumb.WebAppConfig;
+import club.h2g2.thumb.utility.DownloadUtility;
+import club.h2g2.thumb.utility.MediaUtility;
+import club.h2g2.thumb.utility.NetworkManager;
+import club.h2g2.thumb.view.ViewState;
 
 import org.apache.commons.io.IOUtils;
 

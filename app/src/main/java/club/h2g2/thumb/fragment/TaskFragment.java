@@ -1,4 +1,4 @@
-package com.webview.nodebb.fragment;
+package club.h2g2.thumb.fragment;
 
 import java.util.LinkedList;
 import java.util.List;
