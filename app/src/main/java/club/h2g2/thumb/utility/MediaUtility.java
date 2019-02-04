@@ -1,4 +1,4 @@
-package com.webview.nodebb.utility;
+package club.h2g2.thumb.utility;
 
 import android.content.ContentUris;
 import android.content.Context;

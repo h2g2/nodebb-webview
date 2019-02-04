@@ -1,10 +1,11 @@
-package com.webview.nodebb;
+package club.h2g2.thumb;
 
 import android.app.Application;
 import android.content.Context;
 import com.google.android.gms.analytics.GoogleAnalytics;
 import com.google.android.gms.analytics.Tracker;
 import com.onesignal.OneSignal;
+import com.webview.nodebb.R;
 
 public class WebAppApplication extends Application {
     private static WebAppApplication mInstance;

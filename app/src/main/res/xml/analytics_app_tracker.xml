@@ -7,5 +7,5 @@
     <bool name="ga_autoActivityTracking">true</bool>
     <bool name="ga_reportUncaughtExceptions">true</bool>
     <integer name="ga_sessionTimeout">-1</integer>
-    <screenName name="com.webview.nodebb.activity.MainActivity">Main Activity</screenName>
+    <screenName name="club.h2g2.thumb.activity.MainActivity">Main Activity</screenName>
 </resources>

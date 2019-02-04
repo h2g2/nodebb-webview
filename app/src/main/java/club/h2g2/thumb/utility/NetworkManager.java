@@ -1,4 +1,4 @@
-package com.webview.nodebb.utility;
+package club.h2g2.thumb.utility;
 
 import android.content.Context;
 import android.net.ConnectivityManager;

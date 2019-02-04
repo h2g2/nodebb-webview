@@ -1,12 +1,11 @@
-package com.webview.nodebb.utility;
+package club.h2g2.thumb.utility;
 
 import android.app.DownloadManager;
 import android.content.Context;
-import android.content.Intent;
 import android.net.Uri;
 import android.os.Environment;
 
-import com.webview.nodebb.WebAppConfig;
+import club.h2g2.thumb.WebAppConfig;
 
 
 public class DownloadUtility
