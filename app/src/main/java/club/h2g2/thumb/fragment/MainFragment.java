@@ -22,7 +22,7 @@ import android.widget.Toast;
 
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
-import com.webview.nodebb.R;
+import club.h2g2.thumb.R;
 import club.h2g2.thumb.WebAppApplication;
 import club.h2g2.thumb.WebAppConfig;
 import club.h2g2.thumb.utility.DownloadUtility;

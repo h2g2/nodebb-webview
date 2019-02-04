@@ -21,7 +21,7 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
 
 import com.google.android.gms.analytics.GoogleAnalytics;
-import com.webview.nodebb.R;
+import club.h2g2.thumb.R;
 import club.h2g2.thumb.WebAppApplication;
 import club.h2g2.thumb.adapter.DrawerAdapter;
 import club.h2g2.thumb.fragment.MainFragment;
